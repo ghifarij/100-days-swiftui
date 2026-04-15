@@ -26,4 +26,14 @@ View composition, conditional UI, unit conversion logic, state handling.
 
 ---
 
+### 3. Guess The Flag
+
+**What it does:**
+Guess the correct flag shown on the screen to get score.
+
+**What I learned:**
+State management, user interaction handling, randomization, alerts, basic game logic.
+
+---
+
 More projects coming soon 🚀
