@@ -35,9 +35,9 @@ struct ContentView: View {
                 Spacer()
             }
             .padding()
+            .navigationTitle("Unit Converter")
+            .navigationBarTitleDisplayMode(.inline)
         }
-        .navigationTitle("Unit Converter")
-        .navigationBarTitleDisplayMode(.inline)
     }
 }
 
